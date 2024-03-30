@@ -1,0 +1,24 @@
+.travel-blog {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid black;
+  align-items: center;
+}
+
+.travel-blog h1 {
+  text-align: center;
+}
+
+.travel-blog p {
+  text-align: center;
+}
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-container img {
+  width: 20%;
+  height: auto;
+}
